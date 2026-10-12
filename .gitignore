@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SRP/SrpLab/bin/Debug/net8.0
+/SRP/SrpLab/obj
+/SRP/SrpLab.Runner/bin/Debug/net8.0
+/SRP/SrpLab.Runner/obj
